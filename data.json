@@ -92,6 +92,38 @@
         "classesTaken": 3,
         "classes": ["Piano Lessons", "Music Production Workshop"]
       }
+    ],
+    "students": [
+      {
+        "id": 1,
+        "name": "Alex Johnson",
+        "image": "alex.jpg",
+        "courses": ["Piano Lessons", "Violin Classes"]
+      },
+      {
+        "id": 2,
+        "name": "Emma Davis",
+        "image": "emma.jpg",
+        "courses": ["Drumming Workshop", "Singing Lessons"]
+      },
+      {
+        "id": 3,
+        "name": "Oliver Wilson",
+        "image": "oliver.jpg",
+        "courses": ["Guitar Classes"]
+      },
+      {
+        "id": 4,
+        "name": "Sophia Thompson",
+        "image": "sophia.jpg",
+        "courses": ["Piano Lessons", "Singing Lessons"]
+      },
+      {
+        "id": 5,
+        "name": "William Smith",
+        "image": "william.jpg",
+        "courses": ["Music Production Workshop"]
+      }
     ]
   }
   
